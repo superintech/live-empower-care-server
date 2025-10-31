@@ -1,0 +1,3 @@
+const GOOGLE_DRIVE_FOLDER_ID = '1Dj9b2SaBVbJqrSYqq8eCSGLHDKUjxCRy';
+
+module.exports = { GOOGLE_DRIVE_FOLDER_ID };
