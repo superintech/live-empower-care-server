@@ -20,6 +20,8 @@ app.use(cors({
     'http://localhost:3000',
     'http://localhost:3001',
      'http://localhost:3002',
+     'https://live-empower-care-client-x2bfg.kinsta.page',
+     'https://live-empower-care-admin-993nv.kinsta.page',
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true
